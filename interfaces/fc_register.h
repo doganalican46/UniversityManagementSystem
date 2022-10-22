@@ -1,5 +1,3 @@
-#include "fc_register.h"
-
 #pragma once
 
 namespace universitymanagementsystem {

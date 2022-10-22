@@ -1,0 +1,7 @@
+#include "homepage_i.h"
+#include"loginpage_i.h"
+#include"i_course.h"
+#include"i_profile.h"
+#include"i_register.h"
+#include"update_profile_i.h"
+#include"update_profile_i1.h"
